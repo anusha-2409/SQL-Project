@@ -67,11 +67,11 @@ This project emphasizes **SQL querying and analysis**, not dataset distribution.
 ### 🔹 Joins & Subqueries
 - INNER JOIN
 - Nested subqueries
-- Filtering using `IN` and `NOT IN`
+- Filtering 
 
 ### 🔹 Advanced SQL
 - Common Table Expressions (CTEs)
-- Window Functions (`RANK`, `DENSE_RANK`, `ROW_NUMBER`, `LEAD`)
+- Window Functions 
 - Derived tables
 - Views
 - Stored Procedures
